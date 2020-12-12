@@ -214,10 +214,12 @@ main {
 
 }
 
-.pie{
+footer{
 	background-color:#1E1B24;
 	display: block;
+	margin:0 auto;
 	text-align: center;
+	position: relative;
 }
 
 .pie >p{
@@ -231,5 +233,12 @@ main {
 	margin-bottom: 35px;
 	margin-top: 35px;
 	
+
+}
+
+.peli1 > img{
+
+	display: inline-block;
+
 
 }
